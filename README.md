@@ -27,7 +27,7 @@ You can download and test the fully functional app directly on an Android device
 
 ---
 *Screenshots of the application interface:*
-<img width="1260" height="2684" alt="WhatsApp Image 2026-10-03 at 12 01 02 PM" src="https://github.com/user-attachments/assets/31ea3b82-ffb0-47dc-b8c3-166fea9e8ac0" />
-<img width="748" height="1600" alt="WhatsApp Image 2026-10-03 at 12 08 16 PM" src="https://github.com/user-attachments/assets/d5de8211-bebf-4ceb-a3be-679cd51a5a6e" />
-<img width="888" height="1889" alt="WhatsApp Image 2026-10-03 at 12 10 47 PM" src="https://github.com/user-attachments/assets/798b3228-dbd1-4b6c-ab66-a9a4dc501c94" />
+<img width="100" height="213" alt="WhatsApp Image 2026-10-03 at 12 01 02 PM" src="https://github.com/user-attachments/assets/31ea3b82-ffb0-47dc-b8c3-166fea9e8ac0" />
+<img width="100" height="213" alt="WhatsApp Image 2026-10-03 at 12 08 16 PM" src="https://github.com/user-attachments/assets/d5de8211-bebf-4ceb-a3be-679cd51a5a6e" />
+<img width="100" height="213" alt="WhatsApp Image 2026-10-03 at 12 10 47 PM" src="https://github.com/user-attachments/assets/798b3228-dbd1-4b6c-ab66-a9a4dc501c94" />
 
